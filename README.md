@@ -1,10 +1,10 @@
 Hi, I'm Akshay 👋
 
-Senior backend engineer and tech lead with a focus on distributed systems, APIs and developer tooling.
+Senior backend engineer with experience building distributed systems, APIs and developer tooling.
 
 Currently building:
-- Bloch - a strongly-typed hardware agnostic quantum programming language
-- QClient - a provider-agnostic Java client for quanum hardware APIs
+- Bloch - a strongly-typed hardware agnostic quantum programming language.
+- HybridCache4j - Java library for hybrid two-level caching with local and distributed cache support.
 
 Links:
 - Website: https://akshay.software
