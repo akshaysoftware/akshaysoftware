@@ -1,10 +1,8 @@
 Hi, I'm Akshay 👋
 
-Senior backend engineer with experience building distributed systems, APIs and developer tooling.
+Software engineer with experience building distributed systems, REST APIs and developer tooling. I also hold an MSc in Quantum Technology and have a strong interest in quantum computing.
 
 Currently building:
-- Bloch - a strongly-typed hardware agnostic quantum programming language.
-
+- Bloch Labs - developer tooling and transpiler optimisation for quantum software. 
 Links:
-- Website: https://akshaysoftware.github.io/gui-portfolio-website/
-- Bloch: https://bloch-labs.com
+- Website: https://akshaysoftware.github.io
