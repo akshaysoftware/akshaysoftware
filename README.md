@@ -4,5 +4,6 @@ Software engineer with experience building distributed systems, REST APIs and de
 
 Currently building:
 - Bloch Labs - developer tooling and transpiler optimisation for quantum software. 
+
 Links:
 - Website: https://akshaysoftware.github.io
