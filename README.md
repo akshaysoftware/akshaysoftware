@@ -4,7 +4,7 @@ Software engineer with experience building distributed systems, REST APIs and de
 
 Currently building:
 - [nanoproc](https://github.com/akshaysoftware/nanoproc) - tiny, safe child processes and persistent workers for Java.
-- [Bloch Basis](https://github.com/akshaysoftware/basis) - a modern, open-source programming language for quantum software.
+- [Basis](https://github.com/akshaysoftware/basis) - a modern, open-source programming language for quantum software.
 
 Links:
 - Website: https://akshaysoftware.github.io
