@@ -10,3 +10,5 @@ Currently building:
 
 Links:
 - Website: https://akshaysoftware.github.io
+- Substack: [Uncommitted](akshayuncommitted.substack.com)
+- OSS Contributions: [View merged PRs](https://akshaysoftware.github.io/#oss-heading)
